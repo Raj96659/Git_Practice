@@ -17,7 +17,7 @@ class Test{
 
 public class This {
     public static void main(String[] args) {
-        Test T = new Test(5,6);
+        new Test(5,6);
         // T.display();
     }
     
